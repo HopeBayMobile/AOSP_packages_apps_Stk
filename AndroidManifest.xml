@@ -33,7 +33,6 @@
         android:clearTaskOnLaunch="true"
         android:process="com.android.phone"
         android:taskAffinity="android.task.stk"
-        android:defaultToDeviceProtectedStorage="true"
         android:directBootAware="true">
 
         <activity android:name="StkMain"
